@@ -1,0 +1,14 @@
+{
+  "name": "lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha specs"
+  },
+  "author": "John and Shaheen",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^7.0.1"
+  }
+}
